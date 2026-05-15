@@ -1,1 +1,10 @@
 
+{
+  "version": "1.0.1",
+  "downloadUrl": "https://github.com/kullanici-adi/RStackFusion-Releases/releases/latest",
+  "forceUpdate": false,
+  "notes": [
+    "Lisans ekranı geliştirildi",
+    "Küçük hatalar düzeltildi"
+  ]
+}
